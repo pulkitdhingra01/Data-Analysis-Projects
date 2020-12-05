@@ -1,6 +1,6 @@
 # GreyAtomProjects-DataAnalysis
 
-## [PROJECT](https://github.com/palak64/udacityFSND/edit/master/02_trivia/README.md)
+## [PROJECT](https://github.com/pulkitdhingra01/GreyAtomProjects-DataAnalysis/blob/main/OlympicsDataAnalysis.ipynb)
 
 
 ```
